@@ -3,7 +3,7 @@
   <remote fetch="https://github.com/Claud-Ling/" name="github"/>
   
   <project name="udmabuf" path="package/udmabuf" remote="github" revision="manual-sync-develop" upstream="manual-sync-develop"/>
-  <project name="vim" path="package/vim" remote="github" revision="macos" upstream="macos"/>
+  <project name="vim" path="package/vim" remote="github" revision="master" upstream="macos"/>
 
 
 </manifest>
